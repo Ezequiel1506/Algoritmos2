@@ -1,0 +1,4 @@
+﻿  JuegoDeLaVida.cpp
+C:\Users\Ezequiel\Desktop\Facultad\Algo2\TP1\JuegoDeLaVida\JuegoDeLaVida\JuegoDeLaVida.cpp(205,24): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Ezequiel\Desktop\Facultad\Algo2\TP1\JuegoDeLaVida\JuegoDeLaVida\JuegoDeLaVida.cpp(206,28): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  JuegoDeLaVida.vcxproj -> C:\Users\Ezequiel\Desktop\Facultad\Algo2\TP1\JuegoDeLaVida\x64\Debug\JuegoDeLaVida.exe
